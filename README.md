@@ -12,6 +12,7 @@ There are three key physiological measures of undernourishment and undernutritio
 •	Underweight – low weight-for-age in children.
 
 These four indicators are:
+
 •	Undernourishment: the proportion of undernourished people as a percentage of the population (reflecting the share of the population with insufficient caloric intake);
 •	Child wasting: the proportion of children under the age of five who suffer from wasting (low weight for their height, reflecting acute undernutrition);
 •	Child stunting: the proportion of children under the age of five who suffer from stunting (low height for their age, reflecting chronic undernutrition); and
