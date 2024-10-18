@@ -5,6 +5,7 @@ Having a diet which is both sufficient in terms of energy (caloric) requirements
 
 The UN has set a global target as part of the Sustainable Development Goals to “end hunger by 2030“. Currently we are far from reaching this target.
 In our research on Hunger and Undernourishment we look at how many people are undernourished; where they live; childhood undernourishment; and food insecurity across the world.
+
 There are three key physiological measures of undernourishment and undernutrition in children. The measures discussed and visualised in the sub-sections below are:
 •	Stunting – being ‘too short for one’s age’;
 •	Wasting – being ‘dangerously thin for one’s height’; and
