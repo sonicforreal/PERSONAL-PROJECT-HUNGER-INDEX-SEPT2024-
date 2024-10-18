@@ -7,8 +7,8 @@ The UN has set a global target as part of the Sustainable Development Goals to �
 In our research on Hunger and Undernourishment we look at how many people are undernourished; where they live; childhood undernourishment; and food insecurity across the world.
 
 There are three key physiological measures of undernourishment and undernutrition in children. The measures discussed and visualised in the sub-sections below are:
-•	Stunting – being ‘too short for one’s age’;
-•	Wasting – being ‘dangerously thin for one’s height’; and
+•	Stunting – being ‘too short for one’s age’
+•	Wasting – being ‘dangerously thin for one’s height’ 
 •	Underweight – low weight-for-age in children.
 
 These four indicators are:
